@@ -40,17 +40,17 @@ How can we design not only for what the web is today, but for what the web could
 All lectures are posted on [Google Drive](https://drive.google.com/open?id=1nRwsSQuCm52kGZWwT1bPJpl-LhgEDLSs)
 
 ## Exercises and Projects
-All assignments are posted on the [Home](https://github.com/risdesignet/wd-winter19/wiki) page on the Wiki. Exercises are in-class / take-home assignments for practicing or extending material covered in class. Projects are larger assignments to shape your own content. There will be 4 projects over the course of the semester.
+All assignments are posted on the [Home](https://github.com/risdesignet/wp-spring2019/wiki) page on the Wiki. Exercises are in-class / take-home assignments for practicing or extending material covered in class. Projects are larger assignments to shape your own content. There will be 4 projects over the course of the semester.
 
 ## Readings
 Readings will be assigned every week. We will discuss the readings in class, in relation to work out in the public and by your peers. Each student must submit a brief response to the appropriate Slack channel the night before the assigned reading is due. Your responses may also be replies to existing comments. Questions should be oriented for in-class discussion, directed to your fellow students. Be prepared to discuss the texts in class.
 
 ## Resources
 * Clone/sync this repostory
-* Check out the [Wiki](https://github.com/risdesignet/wd-winter19/wiki/Resources)
-* Quick reference when [Troubleshooting](https://github.com/risdesignet/wd-winter19/wiki/Common-Errors)
-* A [Glossary](https://github.com/risdesignet/wd-winter19/wiki/Glossary)
-* Check out & add to [Sites](https://github.com/risdesignet/wd-winter19/wiki/Sites) for inspiration
+* Check out the [Wiki](https://github.com/risdesignet/wp-spring2019/wiki/Resources)
+* Quick reference when [Troubleshooting](https://github.com/risdesignet/wp-spring2019/wiki/Common-Errors)
+* A [Glossary](https://github.com/risdesignet/wp-spring2019/wiki/Glossary)
+* Check out & add to [Sites](https://github.com/risdesignet/wp-spring2019/wiki/Sites) for inspiration
 
 ## Grading
 * 60% Execution of projects
