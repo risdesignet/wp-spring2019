@@ -37,7 +37,7 @@ How can we design not only for what the web is today, but for what the web could
 * Test in Google Chrome, Safari, and/or Firefox — assignments will be evaluated in Google Chrome
 
 ## Lectures
-All lectures are posted on [Google Drive](https://drive.google.com/open?id=1nRwsSQuCm52kGZWwT1bPJpl-LhgEDLSs)
+All lectures are posted on [Google Drive](https://drive.google.com/open?id=1JRiwPxBGPEiVEMYMfYLqoXQXivXlYoI7AfOycaSjl4g)
 
 ## Exercises and Projects
 All assignments are posted on the [Home](https://github.com/risdesignet/wp-spring2019/wiki) page on the Wiki. Exercises are in-class / take-home assignments for practicing or extending material covered in class. Projects are larger assignments to shape your own content. There will be 4 projects over the course of the semester.
